@@ -1,0 +1,5 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const DIRECTSHOW = "DIRECTSHOW"
+export const HANDLESHOW = "HANDLESHOW"
+export const HANDLERESET = "HANDLERESET"
